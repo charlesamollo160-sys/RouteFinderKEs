@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">RouteFinderKEs</string>
+    <string name="route_number">Route %s</string>
+    <string name="route_path">%1$s to %2$s</string>
+    <string name="route_stops">Stops: %s</string>
+    <string name="route_fare">Fare: %s</string>
 </resources>
